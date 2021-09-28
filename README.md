@@ -1,0 +1,2 @@
+# Traffic-Signalling-and-demonstration-using-cars
+A p5js code on implementing Traffic Signal. We have three lights in the signal Red,Green and Yellow.Each light have some meaning. Red means stop, Green means go, Yellow means ready to go. Same method is implemented in our project which used in real life. When there is green signal it means vehicle can move or run on the road but if this green signal turn off and the red signal is turn on then its indicate the driver to stop his vehicle and same time signal allows some other side vehicle to cross the road.
